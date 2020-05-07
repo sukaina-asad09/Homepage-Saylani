@@ -1,0 +1,235 @@
+.div-1{
+    background-color: #2E86C1;
+    /* max-width: 100%; */
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.fb{
+    width: 25px;
+    color: white;
+}
+.fb_icon{
+    width: 25px;
+    color: white;    
+}
+.whatsapp_icon{
+    width: 20px;    
+}
+.youtube_icon{
+    width: 35px;
+}
+.insta{
+    width: 30px;    
+}
+.twitter{
+    width: 17px;    
+}
+.fb{
+    width: 17px;   
+}
+.btn{
+    padding: 7px;
+    color: grey;
+    margin: 4px;
+    width: 85px;
+    font-size: 12px;
+    border-radius: 0;
+}
+.images{
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.millions{
+    color: white;
+}
+/* .saylani{
+    width: 250px;
+    height: 60px;
+} */
+.div-2{
+    /* height:35px; */
+    padding: 0px;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.active, .menu ul li:hover{
+    background: #2E86C1;
+} 
+#news{
+    background-color: #2E86C1;
+    color: white;
+    margin: 10px;
+}
+.green{
+    color: greenyellow;
+}
+.introduction{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.intro{
+    color: #316DC3;
+}
+.duction{
+    color: #427900;
+}
+.element{
+    text-align: justify;
+    visibility: visible;
+    margin-left: 120px;
+    margin-right: 120px;
+    /* position: relative; */
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+    line-height: 30px;
+    color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.div-4{
+    background-color: #F7F9F9;
+    max-width: 100%;
+    padding-bottom: 30px;
+}
+.div-6{
+    padding:30px;
+    background-color:#F7F9F9;
+    max-width: 100%;
+}
+.facilities{
+    background-color: white;
+    box-sizing: border-box;
+    width: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+    margin: 15px;
+}
+.pictures{
+    max-width: 100%;
+}
+.text{
+    text-align: center;
+    font-family: serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #2E86C1;
+}
+.div-7{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.div-8{
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+.gallery{
+    width: 230px;
+    /* margin: 12px; */
+}
+.image-section{
+    padding-top: 20px;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.active, .menu ul li:hover{
+    background: #2E86C1;
+    border-radius: 25px;
+} 
+#contactcontainer{
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-top: 15px;
+    color:	#A9A9A9;
+    font-size: 15px;
+    line-height: 15px; 
+}   
+#linkcontainer{
+    margin-top: 15px;
+    padding-top: 15px;
+    color:	#A9A9A9;
+    font-size: 15px;
+    line-height: 15px;
+    padding-left: 50px;
+    padding-bottom: 15px;   
+}   
+#connectcontainer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 50px;
+}
+.icons{
+    height: 25px;
+    width: 25px;
+}
+.icons:hover{
+    background-color: #759DD7;
+}
+.links-part{
+    max-width: 100%;
+}
+.last_div{
+    background-color: #2E86C1;
+    /* max-width: 100%; */
+}
+#sixthcontainer{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left:20px;
+    padding-bottom: 20px;
+    background-color: #1a75ff;
+}
+#bluecontainer1{
+    margin-top:30px;
+    text-align: center;
+    line-height: 1;
+    /* font-size: 10px; */
+}
+#bluecontainer2{
+    margin-top:30px;
+    text-align: center;
+    line-height: 1;
+}
+#bluecontainer3{
+    margin-top:30px;
+    text-align: center;
+}
+.fr{
+    width: 350px;
+    height: 75px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid whitesmoke;
+    margin: 30px 15px 10px 20px;
+}
+.sc{
+    width: 350px;
+    height: 75px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid whitesmoke;
+    margin: 10px 15px 30px 20px;
+}
+.ig2 {
+    padding: 18px 18px 10px 15px;
+}
+.image-gallery{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+
+
+
